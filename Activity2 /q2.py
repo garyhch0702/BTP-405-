@@ -22,5 +22,5 @@ def graphSnowfall(t):
     plt.tight_layout()
     plt.show()
 
-# Usage: graphSnowfall('path_to_your_file.txt')
+# Usage: graphSnowfall('t.txt')
 
